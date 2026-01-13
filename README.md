@@ -9,14 +9,3 @@ Instagram LinkedIn Codepen email
 💻 Tech Stack:
 CSS3 HTML5 JavaScript Netlify Canva Figma Framer Git
 
-📊 GitHub Stats:
-
-
-
-
-
-
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
