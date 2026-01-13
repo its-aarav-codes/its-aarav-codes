@@ -1,16 +1,22 @@
-## Hi there 👋
+💫 About Me:
+I am a frontend Developer who build Website for small businesses to
+create a clean layout, fast loading and responsive website, using only
+HTML, CSS and minimal JavaScript.
 
-<!--
-**its-aarav-codes/its-aarav-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram LinkedIn Codepen email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+CSS3 HTML5 JavaScript Netlify Canva Figma Framer Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
